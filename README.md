@@ -1,2 +1,2 @@
-# test
-test
+# go-examples
+repo for golang project examples
